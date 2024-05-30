@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\bin\Debug\net8.0\static extension HW.exe
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\bin\Debug\net8.0\static extension HW.deps.json
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\bin\Debug\net8.0\static extension HW.runtimeconfig.json
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\bin\Debug\net8.0\static extension HW.dll
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\bin\Debug\net8.0\static extension HW.pdb
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.dll
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\refint\static extension HW.dll
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.pdb
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\static extension HW.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\static extension HW\static extension HW\obj\Debug\net8.0\ref\static extension HW.dll
